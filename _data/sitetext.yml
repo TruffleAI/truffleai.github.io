@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Using data to get results"
+    text: "We help you with your data to get better results"
     section: services
     list:
       - title: "Consulting"
@@ -83,8 +83,8 @@ services:
     
 team:
     title: "THE TEAM"
-    text: "You have the need."
-    subtext: We provide the solution.
+    text: "You have the need. We provide the solution."
+    # subtext: 
     section: team
     people:
       - name: "Katherine Evans"
