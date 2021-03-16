@@ -2,6 +2,9 @@ nav:
   - title: "Services"
     section: services
 
+  - title: "Timeline"
+    section: timeline
+
   - title: "Team"
     section: team
 
