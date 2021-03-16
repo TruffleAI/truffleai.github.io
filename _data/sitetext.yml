@@ -1,23 +1,24 @@
 header:
     # title: Truffle Data & AI
-    title: In a forest of Data We find and prepare your Truffles
+    title: In a forest of Data, We find the precious Truffles
     # button: Tell Me More
     # buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "We help you with your data to get better results"
+    text: "We build domain specific search engines and data visualization"
+    # sub-text: "and make your life easier so you can focus on your core business"
     section: services
     list:
       - title: "Consulting"
-        desc: "We give advice and guidance on how to deal with different"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Software"
-        desc: "We Design and build the Data Infrastructure for your company. We can integrate your different information sources to allow for better decision making."
-        icon: fas fa-laptop       
-      - title: "Machine Learning"
-        desc: "We apply the most appropriate **Machine Learning & Artificial Intelligence** tools for your benefit"
-        icon: fab fa-markdown
+        desc: "We help you to **get the most out of your data**"
+        icon: fas fa-tasks #find more at https://fontawesome.com/icons
+      - title: "Search"
+        desc: "We build the **Search Infrastructure** to get the most out of your data."
+        icon: fab fa-searchengin 
+      - title: "Visualization"
+        desc: "An image is worth a thousand words. We tailor the graphics to your needs."
+        icon: fas fa-project-diagram
 
 # portfolio:
 #     title: "Portfolio"
