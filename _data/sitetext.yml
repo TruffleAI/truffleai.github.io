@@ -1,6 +1,7 @@
 header:
     # title: Truffle Data & AI
-    title: In a forest of Data, We find the precious Truffles
+    title: In a forest of Data
+    button: We find the precious Truffles
     # button: Tell Me More
     # buttonlink: "#services"
 
@@ -91,7 +92,7 @@ timeline:
 #         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "THE TEAM"
+    title: "The Founders"
     text: "You have the need. We provide the solution."
     # subtext: 
     section: team

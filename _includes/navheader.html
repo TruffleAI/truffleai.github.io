@@ -34,8 +34,13 @@
   
   <!-- Header -->
   <header class="masthead">
+    <div class="dynamic-network" id="dynamic-network-left"></div> 
+    <div class="dynamic-network" id="dynamic-network-right"></div>
+
     <div class="container">
+      
       <div class="intro-text">
+      
 	  {%- if site.data.sitetext.header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
 	  {%- endif -%}
@@ -48,4 +53,7 @@
       </div>
     </div>
   </header>
+
+  {% include background.html %}
+
   <!-- End Header -->
