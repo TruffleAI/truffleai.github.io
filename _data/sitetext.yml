@@ -48,20 +48,20 @@ timeline:
         # align: right
       - title: "Choose"
         # year: "2019"
-        desc: "We present you different options, we help you through the choosing process"
+        desc: "We present you different **options**, we help you through the choosing process"
         image: assets/img/timeline/choose-direction.png
       #   # alt: 
       #   # align: left
-      - title: "Develop"
+      - title: "Build"
         # year: "2009-2011"
-        desc: "We create what you need"
+        desc: "We **create what you need**, we test and we deploy it"
         image: assets/img/timeline/code-laptop.png
       #   # alt: 
       #   # you can enforce the aligment
       #   # align: right
       - title: "Iterate and Improve"
         # year: "2009-2011"
-        desc: "We are experts certified in Agile methodologies. We are all for quick wins **and** long term improvement."
+        desc: "We are experts certified in **Agile methodologies**. We are all for quick wins **and** long term improvement."
         image: assets/img/timeline/iterate.png
       #   # alt: 
       #   # you can enforce the aligment
@@ -93,7 +93,7 @@ timeline:
     
 team:
     title: "The Founders"
-    text: "You have the need. We provide the solution."
+    text: "You have the need, We provide the solution!"
     # subtext: 
     section: team
     people:
