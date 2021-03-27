@@ -3,7 +3,7 @@ header:
     title: In a forest of Data
     button: We find the precious Truffles
     # button: Tell Me More
-    # buttonlink: "#services"
+    buttonlink: "#contact"
 
 services:
     title: "Services"
@@ -36,33 +36,33 @@ timeline:
     events:
       - title: "Start"
         # year: "2020"
-        desc: "We discuss your current situation and problems"
-        image: assets/img/timeline/1.jpg
+        desc: "We discuss your current situation and problems."
+        image: assets/img/timeline/key-bike.png
         # alt: 
         # align: left
       - title: "Explore"
         # year: "March 2011"
-        desc: "We **explore the data** and visualize it to better understand your needs"
-        image: assets/img/timeline/2.jpg
+        desc: "We **explore the data** and visualize it to better understand your needs."
+        image: assets/img/timeline/explore-paper.png
         # alt: 
         # align: right
       - title: "Choose"
         # year: "2019"
         desc: "We present you different options, we help you through the choosing process"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/choose-direction.png
       #   # alt: 
       #   # align: left
       - title: "Develop"
         # year: "2009-2011"
         desc: "We create what you need"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/code-laptop.png
       #   # alt: 
       #   # you can enforce the aligment
       #   # align: right
       - title: "Iterate and Improve"
         # year: "2009-2011"
         desc: "We are experts certified in Agile methodologies. We are all for quick wins **and** long term improvement."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/iterate.png
       #   # alt: 
       #   # you can enforce the aligment
         align: center

@@ -13,17 +13,17 @@ header.masthead {
   background-position: center center;
   background-size: cover;
   .container {
-    pointer-events: none;
+    // pointer-events: none;
     z-index:20;
   }
   .intro-text {
     z-index:20;
-    pointer-events: none;
+    // pointer-events: none;
     padding-top: 150px;
     padding-bottom: 100px;
     .intro-lead-in {
       z-index:20;
-      pointer-events: none;
+      // pointer-events: none;
       font-size: 22px;
       font-style: italic;
       line-height: 22px;
@@ -32,7 +32,7 @@ header.masthead {
     }
     .intro-heading {
       z-index:20;
-      pointer-events: none;
+      // pointer-events: none;
       font-size: 50px;
       font-weight: 700;
       line-height: 50px;
