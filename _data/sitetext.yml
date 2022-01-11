@@ -97,18 +97,8 @@ team:
     # subtext: 
     section: team
     people:
-      - name: "Katherine Evans"
-        role: "Co-Founder & COO"
-        image: https://media-exp1.licdn.com/dms/image/C4E03AQEcvCZFxwRCgg/profile-displayphoto-shrink_400_400/0/1608232587338?e=1620864000&v=beta&t=MxEzQqVcakxdqBvDtX_ocSAu25LjHW_AJTQrhq5q1YQ
-        social:
-          # - url: https://twitter.com
-          #   icon: fab fa-twitter
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/katherine-e-09/
-            icon: fab fa-linkedin-in
       - name: "Leonardo Rocha"
-        role: "Co-Founder & CTO"
+        role: "Owner"
         image: https://avatars.githubusercontent.com/u/3646521?s=460&u=9b6dddbd8ea4384cb95ef085067577b02fafc8a8&v=4
         social:
           - url: https://leomrocha.github.io/
