@@ -13,11 +13,11 @@
 
 # theme: jekyll-agency
 
-url    : "truffleai.net" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "truffle.ai" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Truffle Data
-email      : contact@truffledata.net #this is also the email contact forms will go to
+email      : leo@duck.com #this is also the email contact forms will go to
 description: "In a forest of Data, We find the precious Truffles"
 author     : Truffle Data
 # logo:     #optional, defaults to site title
