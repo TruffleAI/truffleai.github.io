@@ -91,22 +91,22 @@ timeline:
 #         url: https://github.com/raviriley/agency-jekyll-theme
 #         logo: assets/img/clients/creative-market.jpg
     
-team:
-    title: "The Founders"
-    text: "You have the need, We provide the solution!"
-    # subtext: 
-    section: team
-    people:
-      - name: "Leonardo Rocha"
-        role: "Owner"
-        image: https://avatars.githubusercontent.com/u/3646521?s=460&u=9b6dddbd8ea4384cb95ef085067577b02fafc8a8&v=4
-        social:
-          - url: https://leomrocha.github.io/
-            icon: fab fa-github
-          # - url: https://github.com/leomrocha
-          #   icon: fab fa-github
-          - url: https://www.linkedin.com/in/rochaleonardomanuel/
-            icon: fab fa-linkedin-in
+    #team:
+    #    title: "The Founders"
+    #    text: "You have the need, We provide the solution!"
+    #    # subtext: 
+    #    section: team
+    #    people:
+    #      - name: "Leonardo Rocha"
+    #        role: "Owner"
+    #        image: https://avatars.githubusercontent.com/u/3646521?s=460&u=9b6dddbd8ea4384cb95ef085067577b02fafc8a8&v=4
+    #        social:
+    #          - url: https://leomrocha.github.io/
+    #            icon: fab fa-github
+    #          # - url: https://github.com/leomrocha
+    #          #   icon: fab fa-github
+    #          - url: https://www.linkedin.com/in/rochaleonardomanuel/
+    #            icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
